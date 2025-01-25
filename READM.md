@@ -1,0 +1,1 @@
+Ejercicio de desarrollo de página, donde se genera un array a partid de un textbox donde se coloca un nombre y se da ingreso con un botón, luego con ranmdom se selecionará al azar uno de los nombres y se mostrará en patanlla.
