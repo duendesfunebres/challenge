@@ -31,13 +31,15 @@ function agregarAmigo() {
 }
 
 function sortearAmigo() {
-    let valor2 = generarAmigo()
+    let valor2 = generarAmigo();
+    console.log (`valor2 = ${valor2}`)
     let resultado = document.getElementById("resultado");
-    ejecutarCelebracion()
-    resultado.innerHTML = (`el amigo seleccionado es "${listaDeNombres[valor2]}"`)
-   
-
-
+    
+    resultado.innerHTML = (`el amigo seleccionado es "${listaDeNombres[valor2]}"`);
+    ejecutarCelebracion();
+    setTimeout(() => {
+        vaciarLista();
+    }, 3000);
 
     const nombreAmigo = document.getElementById('amigo').value;
     if (nombreAmigo) {
@@ -48,14 +50,14 @@ function sortearAmigo() {
         document.getElementById('amigo').value = '';
     return
 }
-
+}
 function generarAmigo() {
     const lista = document.getElementById('listaAmigos');
     const cantidad = lista.children.length; //lista.childElementCount; // O lista.children.length
+    console.log(`cantidad = ${cantidad}`)
     const valor = Math.floor(Math.random() * (cantidad) + 1);
-    }
+    console.log (`valor = ${valor}`);
     return valor;
-    
 }
 
 function vaciarLista() {
@@ -63,12 +65,15 @@ function vaciarLista() {
     while (lista.firstChild) {
         lista.removeChild(lista.firstChild);
     }
-
 }
 
 
+//--------------------------------------------------------------------------------------
+//Apartir de acá código generado por IA, para ejecutar la caida de CONFETTI, como festejo al terminar
+//si bien lo entiendo, no es de mi autoría
+
 function ejecutarCelebracion() {
-    for (let i = 1000; i > 0; i--) {
+    for (let i = 1500; i > 0; i--) {
         crearConfeti();
     }
 }
@@ -86,7 +91,7 @@ function crearConfeti() {
 
     setTimeout(() => {
         confeti.remove();
-    }, 5000); // Aumenta el tiempo para asegurar que se remuevan todos los confetis
+    }, 10000); // Aumenta el tiempo para asegurar que se remuevan todos los confetis
 }
 
 
