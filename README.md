@@ -1,4 +1,5 @@
-# ♦️♦️  AMIGO SECRETO PROYECTO DE ESTUDIOS  ♦️♦️
+# ♦️♦️  "AMIGO SECRETO" ♦️♦️(proyecto de estudios)  
+
 
 
 ## Tabla de Contenidos
@@ -11,12 +12,17 @@
 - [Contacto](#contacto)
 
 ## Descripción 📝
-  Aca debo poner una descipción del proyecto
+  📌 Es una aplicación interactiva, donde se introducen datos en este caso nombres, y luego se ejecuta una función de elección random para seleccionar uno de los items como el "AMIGO SECRETO", abajo esplicaré sun funcionalidad y demas detalles.
+      La mimsa ha sido desarrollada en el curso de ALURA LATAM - ONE ORACLE NEXT EDUCACTION
  
 ## Funcionalidadn ⚙️
   Desarrollar la idea de como funciona
 
 ## Instalación 💻
+
+## uso
+
+##Licencia
 
   Instrucciones paso a paso sobre cómo instalar tu proyecto. Incluye cualquier requisito previo y comandos necesarios.
 
