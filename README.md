@@ -1,26 +1,41 @@
-# Proyecto AMIGO SECRETO 👫  
-*AluraLatam & Oracle*
+# ♦️♦️  AMIGO SECRETO PROYECTO DE ESTUDIOS  ♦️♦️
 
-Este es un pequeño proyecto en JavaScript que permite gestionar una lista de amigos. Los usuarios pueden agregar nuevos amigos, ver la lista actualizada y seleccionar aleatoriamente a uno de ellos. 🎲
 
----
+## Tabla de Contenidos
 
-## Funcionalidades ✨
+- [Descripción](#descripción)
+- [Funcionaliad](#Funcionalidad)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
 
-- **Agregar amigos a la lista ✍️**:  
-  Puedes agregar un nuevo amigo introduciendo su nombre en un campo de texto y presionando un botón. Si el campo está vacío, se mostrará una alerta ⚠️.
+## Descripción 📝
+  Aca debo poner una descipción del proyecto
+ 
+## Funcionalidadn ⚙️
+  Desarrollar la idea de como funciona
 
-- **Mostrar amigos 📝**:  
-  Cada vez que se agrega un nuevo amigo, la lista se actualiza automáticamente para reflejar los cambios.
+## Instalación 💻
 
-- **Sortear un amigo aleatoriamente 🎉**:  
-  El sistema seleccionará aleatoriamente un amigo de la lista y lo marcará como "ya sorteado". Los amigos no se repiten al ser sorteados. Si todos los amigos han sido sorteados, la lista se restablecerá para poder empezar de nuevo.
+  Instrucciones paso a paso sobre cómo instalar tu proyecto. Incluye cualquier requisito previo y comandos necesarios.
 
----
+```bash
+# Clona el repositorio
+git clone https://github.com/usuario/nombre-del-proyecto.git
 
-## Requisitos 📋
+# Entra en el directorio del proyecto
+cd nombre-del-proyecto
 
-Este proyecto usa únicamente **JavaScript**, **HTML** y **CSS**.  
-No requiere ninguna librería adicional ni entorno de desarrollo. Puedes probarlo directamente en tu navegador.
+# Instala las dependencias
+npm install
+Uso
+Proporciona ejemplos y capturas de pantalla sobre cómo usar tu proyecto. Esto ayuda a los usuarios a entender cómo funciona tu proyecto.
 
----
+intento
+# Ejecuta el proyecto
+npm start
+
+# Otras instrucciones de uso
+Contribución
+Explica cómo otros desarrolladores pueden contribuir a tu proyecto. Incluye guías sobre cómo hacer un fork, crear una rama, enviar un pull request, etc.
