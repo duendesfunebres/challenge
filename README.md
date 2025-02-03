@@ -10,6 +10,7 @@
 
 
 ##DESCRIPCIÓN 📝
+
   📌 Aplicación interactiva, donde se introducen datos en este caso nombres, y luego se ejecuta una función de elección random para seleccionar uno de los items como el "AMIGO SECRETO", abajo esplicaré sun funcionalidad y demas detalles.
       La mimsa ha sido desarrollada en el curso de ALURA LATAM - ONE ORACLE NEXT EDUCACTION
 
@@ -26,14 +27,17 @@ Cuando el usuario crea conveniente, dejará de ingresar nombres y ejecutará el 
 
 
 ##USO
-  📌 Esta aplicación puede ser utilizada, como generador random de amigos de una oficina, para el famoso juego "EL AMIGO INVISIBLE", ya que determinará que amigo le corresponde a cada compañero en un sorteo totalmente aleatorio, quienes vayan saliendo sorteados, no pueden continuar para que de esta forma todos lleguen a disponer de un compañero elegido.
+
+📌 Esta aplicación puede ser utilizada, como generador random de amigos de una oficina, para el famoso juego "EL AMIGO INVISIBLE", ya que determinará que amigo le corresponde a cada compañero en un sorteo totalmente aleatorio, quienes vayan saliendo sorteados, no pueden continuar para que de esta forma todos lleguen a disponer de un compañero elegido.
 
   
 ##LICENCIA
-  📌 El presente diseño es de uso público y totalmente gratuito.
+
+📌 El presente diseño es de uso público y totalmente gratuito.
 
 ##CONTACTO
-  📌 Dudas, información y consejos, remitirlos a :
+
+📌 Dudas, información y consejos, remitirlos a :
 
 ![presenacion](https://github.com/user-attachments/assets/8c539e43-093c-452c-b36f-ca6d2ef29770)
 
