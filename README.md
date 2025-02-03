@@ -6,25 +6,29 @@
 
 - [Descripción](#descripción)
 - [Funcionaliad](#Funcionalidad)
-- [Instalación](#instalación)
 - [Uso](#uso)
 - [Licencia](#licencia)
 - [Contacto](#contacto)
 
 ## Descripción 📝
-  📌 Es una aplicación interactiva, donde se introducen datos en este caso nombres, y luego se ejecuta una función de elección random para seleccionar uno de los items como el "AMIGO SECRETO", abajo esplicaré sun funcionalidad y demas detalles.
+  📌 A
+plicación interactiva, donde se introducen datos en este caso nombres, y luego se ejecuta una función de elección random para seleccionar uno de los items como el "AMIGO SECRETO", abajo esplicaré sun funcionalidad y demas detalles.
       La mimsa ha sido desarrollada en el curso de ALURA LATAM - ONE ORACLE NEXT EDUCACTION
  
 ## Funcionalidadn ⚙️
-  Desarrollar la idea de como funciona
+  Cumple la funcionalidad de la sigueinte forma, se ingresan nombres propios, los cuales se escriben en la casilla de texto, se presiona sobre el botón "AÑADIR", inmediatamente el nombre, aparecerá en una lista por debajo del cuadro de texto, y se dispondrá de una nueva posibilidad de ingresar otro nombre nuevamente.
 
-## Instalación 💻
+En caso de que no se escriba nada y se presione el botón "AÑADIR", un mensaje del tipo "ALERT", avisará del error, y permitirá continuar con los ingresos.
+
+Cuando el usuario crea conveniente, dejará de ingresar nombres y ejecutará el botón "SORTEAR AMIGO", el que se encargará a traves de un proceso interneo elegir uno de los nombres ingresados en forma random como "EL AMIGO SECRETO", seguido de una animación que consiste de una suelta de confettis, a modo de "estaque" del ejercicio terminado, consideranto esto una determinada duración de tiempo, donde al finalizar, se limpiarám los mensajes, la lista de amigos, y el cursor quedartrá listo para un nuevo juego.
 
 ## uso
+  Esta aplicación puede ser utilizada, como generador random de amigos de una oficina, para el famoso juego "EL AMIGO INVISIBLE", ya que determinará que amigo le corresponde a cada compañero en un sorteo totalmente aleatorio, quienes vayan saliendo sorteados, no pueden continuar para que de esta forma todos lleguen a disponer de un compañero elegido.
 
+  
 ##Licencia
 
-  Instrucciones paso a paso sobre cómo instalar tu proyecto. Incluye cualquier requisito previo y comandos necesarios.
+  El presente diseño es de uso pùblico y totalmente gratuito.
 
 ```bash
 # Clona el repositorio
