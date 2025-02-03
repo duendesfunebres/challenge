@@ -36,5 +36,4 @@ Cuando el usuario crea conveniente, dejará de ingresar nombres y ejecutará el 
   📌 El presente diseño es de uso pùblico y totalmente gratuito.
 
 ## contacto
-  📌 Dudas, información y consejos, remitirlos a : duendsfunebres@gmail.com
-      
+  📌 Dudas, información y consejos, remitirlos a : duendesfunebres@gmail.com
