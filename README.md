@@ -2,11 +2,11 @@
 
 ## Tabla de Contenidos
 
-- [Descripción](#DESCRIPCIÒN)
-- [Funcionaliad](#FUNCIOANLIDAD)
-- [Uso](#USO)
-- [Licencia](#LICENCIA)
-- [Contacto](#CONTACTO)
+- [Descripción](#descripción-)
+- [Funcionaliad](#funcionalidad-)
+- [Uso](#uso)
+- [Licencia](#liencia)
+- [Contacto](#contacto)
 
 
 ##DESCRIPCIÓN 📝
@@ -35,7 +35,7 @@ Cuando el usuario crea conveniente, dejará de ingresar nombres y ejecutará el 
 
 📌 El presente diseño es de uso público y totalmente gratuito.
 
-##CONTACTO
+## CONTACTO
 
 📌 Dudas, información y consejos, remitirlos a :
 
