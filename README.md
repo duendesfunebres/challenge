@@ -17,11 +17,10 @@
  
 ## FUNCIONALIDAD ⚙️
 
-📌 Cumple la funcionalidad de la siguiente forma, se ingresan nombres propios, los cuales se escriben en la casilla de texto, se presiona sobre el botón "AÑADIR", inmediatamente el nombre, apare[...]
-
+📌 Cumple la funcionalidad de la siguiente forma, se ingresan nombres propios, los cuales se escriben en la casilla de texto, se presiona sobre el botón "AÑADIR", inmediatamente el nombre, apareceráen una lista
 En caso de que no se escriba nada y se presione el botón "AÑADIR", un mensaje del tipo "ALERT", avisará del error, y permitirá continuar con los ingresos.
-
-Cuando el usuario crea conveniente, dejará de ingresar nombres y ejecutará el botón "SORTEAR AMIGO", el mismo se encargará a través de un proceso interno de elegir uno de los nombres ingresados en[...]
+Cuando el usuario crea conveniente, dejará de ingresar nombres y ejecutará el botón "SORTEAR AMIGO", el mismo se encargará a través de un proceso interno de elegir uno de los nombres ingresados en
+[...]
 
 ![image](https://github.com/user-attachments/assets/cbe31f1d-fc00-49ba-8799-d1802dd646e0)
 
