@@ -40,11 +40,3 @@ Cuando el usuario crea conveniente, dejará de ingresar nombres y ejecutará el 
 📌 Dudas, información y consejos, remitirlos a:
 
 ![presenacion](https://github.com/user-attachments/assets/8c539e43-093c-452c-b36f-ca6d2ef29770)
-
-
-
-
-
-  
-  
-

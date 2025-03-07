@@ -2,14 +2,14 @@ let titulo = document.querySelector('h1');
 titulo.innerHTML = "Elige al Amigo Secreto";
 
 let segundotitulo = document.querySelector('h2');
-segundotitulo.innerHTML = "Ingrese un nombre y clickear el botón";
+segundotitulo.innerHTML = "Ingrese un nombre y click sobre el botón añadir";
 
 let listaDeNombres = [];
 listaDeNombres.push('null');
 
 function agregarAmigo() {
     let nombre = document.getElementById('amigo').value;
-    console.log(nombre);
+
     if (nombre === "") {
         alert("EL NOMBRE INGRESADO ES INVÁLIDO");
         document.getElementById('amigo').focus();
@@ -34,17 +34,7 @@ function sortearAmigo() {
     }, 10000);
 
 
-
-
-    const nombreAmigo = document.getElementById('amigo').value;
-    if (nombreAmigo) {
-        const lista = document.getElementById('listaAmigos');
-        const nuevoElemento = document.createElement('li');
-        nuevoElemento.textContent = nombreAmigo;
-        lista.appendChild(nuevoElemento);
-        document.getElementById('amigo').value = '';
     }
-}
 
 function generarAmigo() {
     const lista = document.getElementById('listaAmigos');
@@ -70,6 +60,7 @@ function vaciarLista() {
 //A partir de acá código generado por IA, para ejecutar la caida de CONFETTI, como festejo al terminar
 
 function ejecutarCelebracion() {
+    let contador=0
     for (let i = 1500; i > 0; i--) {
         crearConfeti();
     }
@@ -80,12 +71,13 @@ function crearConfeti() {
     const confeti = document.createElement('div');
     confeti.className = 'confeti';
     confeti.style.left = Math.random() * 100 + 'vw';
-    confeti.style.width = Math.random() * 10 + 5 + 'px'; // Tamaños de confeti variados
+    confeti.style.width = Math.random() * 10 + 1 + 'px'; // Tamaños de confeti variados
     confeti.style.height = confeti.style.width;
     confeti.style.backgroundColor = obtenerColorAleatorio();
-    confeti.style.animationDuration = (Math.random() * 2 + 3) + 's'; // Duración de la animación aleatoria
+    confeti.style.animationDuration = (Math.random() * 10 + 3) + 's'; // Duración de la animación aleatoria
     confeti.style.animationDelay = Math.random() + 's'; // Retraso aleatorio en el inicio de la animación
     document.body.appendChild(confeti);
+    
 
     setTimeout(() => {
         confeti.remove();
